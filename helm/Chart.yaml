@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-hibah-discretionary-gift
+description: "BIAN Service Domain: Hibah Discretionary Gift (Process pattern, Deposits and Investment Accounts)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Deposits and Investment Accounts"
+  isb/business-domain: "Profit Management"
+  isb/asset-type: "Hibah Award"
+  isb/control-record: "Hibah Award Procedure"
